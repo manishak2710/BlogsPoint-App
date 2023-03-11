@@ -1,0 +1,16 @@
+.post {
+    border: 1px solid green;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .like-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2rem;
+    margin-left: 10px;
+  }
+  .like-button:hover {
+    transform: scale(1.2);
+  }
+  
